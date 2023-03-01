@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.c-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.c-section > * {
+  transition: all 0.8s ease-out;
+}
+.c-section--hidden > * {
+  filter: blur(6px);
+}
+.c-section__heading {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+#section1,
+#section3 {
+  background-color: skyblue;
+}
+#section2,
+#section4 {
+  background-color: burlywood;
+}
