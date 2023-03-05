@@ -1,4 +1,4 @@
-# 🖱️ Revealing Elements in Vanilla Javascript
+# 🖱️ Revealing Elements in Vanilla JavaScript
 
 [![Revealing Elements in Vanilla Javascript](https://github.com/josenavarrohub/vanilla-js-revealing-elements/blob/main/demo.gif?raw=true)](https://josenavarrohub.github.io/vanilla-js-revealing-elements/)
 
